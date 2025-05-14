@@ -1,0 +1,14 @@
+[project]
+name = "forminput"
+description = "This custom node for ComfyUI provides a set of input elements to create forms or interact with your workflows."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/monkeyWie/ComfyUI-FormInput"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-FormInput"
+Icon = ""
